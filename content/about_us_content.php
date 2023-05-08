@@ -28,8 +28,11 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-12">
+            <div class="col-lg-6">
                 <p>It resonates very nice with the fact of how universally cozy and welcoming our atmosphere is. All our customers say that when they eat at <b>Tenjin Ramen House,</b> they feel like having a nice dinner at home. These are sweet words, which just melt our hearts with joy!</p>
+            </div>
+            <div class="col-lg-6">
+                <img src="assets/images/tenjin-seating.jpg" style="width: 100%;"/>
             </div>
         </div>
     </div>
