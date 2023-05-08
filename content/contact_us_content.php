@@ -43,12 +43,26 @@
     <div class="container">
         <div class="row">
             <!-- Hours of Operation -->
-            <div class="col-6">
-
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-12">
+                        <h4>Hours of</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <h4 class="text-uppercase">Operation</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p class="text-uppercase">WEDNESDAY: 4:00 PM - 8:00 PM THURSDAY, FRIDAY , SATURDAY, SUNDAY 11:00 AM - 3:00 PM | 4:00 PM - 8:30 PM MONDAY & TUESDAY: CLOSED</p>
+                    </div>
+                </div>
             </div>
             
             <!-- Questions Form -->
-            <div class="col-6">
+            <div class="col-sm-6">
 
             </div>
         </div>

@@ -28,10 +28,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-sm-6">
                 <p>It resonates very nice with the fact of how universally cozy and welcoming our atmosphere is. All our customers say that when they eat at <b>Tenjin Ramen House,</b> they feel like having a nice dinner at home. These are sweet words, which just melt our hearts with joy!</p>
             </div>
-            <div class="col-lg-6">
+            <div class="col-sm-6">
                 <img src="assets/images/tenjin-seating.jpg" style="width: 100%;"/>
             </div>
         </div>
@@ -43,12 +43,26 @@
     <div class="container">
         <div class="row">
             <!-- Hours of Operation -->
-            <div class="col-6">
-
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-12">
+                        <h4>Hours of</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <h4 class="text-uppercase">Operation</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p class="text-uppercase">WEDNESDAY: 4:00 PM - 8:00 PM THURSDAY, FRIDAY , SATURDAY, SUNDAY 11:00 AM - 3:00 PM | 4:00 PM - 8:30 PM MONDAY & TUESDAY: CLOSED</p>
+                    </div>
+                </div>
             </div>
             
             <!-- Questions Form -->
-            <div class="col-6">
+            <div class="col-sm-6">
 
             </div>
         </div>
@@ -60,12 +74,12 @@
     <div class="container">
         <div class="row">
             <!-- Google Maps -->
-            <div class="col-lg-8">
+            <div class="col-sm-8">
 
             </div>
 
             <!-- Address & Contact -->
-            <div class="col-lg-4">
+            <div class="col-sm-4">
                 <!-- Address -->
                 <div class="row">
                     <div class="col-12">
