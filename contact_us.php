@@ -8,7 +8,7 @@
     <?php include "sections/navbar.php" ;?>
 
     <!-- Content -->
-    <?php include "content/contact_content.php" ;?>
+    <?php include "content/contact_us_content.php" ;?>
 
     <!-- Footer -->
     <?php include "sections/footer.php" ;?>
