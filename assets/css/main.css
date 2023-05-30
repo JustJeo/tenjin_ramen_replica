@@ -5,23 +5,26 @@
 }
 
 /* ~~~~~~~~~~ Navbar ~~~~~~~~~~ */
-nav {
+header {
     background-image: url("../../assets/images/landing-img.jpg");
+    height: 500px;
 }
 
-nav ul {
-    display: inline;
+nav ul li a {
     color: white;
-}
-
-nav ul li {
-    display: inline;
     margin-right: 20px;
 }
 
 nav button {
     float: right;
+}
+
+nav #order-online-btn {
     padding: 20px;
+}
+
+#nav-landing-img #nav-welcome {
+    color: #F5AC4C;
 }
 
 /* ~~~~~~~~~~ Home Page ~~~~~~~~~~ */
