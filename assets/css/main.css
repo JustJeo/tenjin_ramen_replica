@@ -1,8 +1,17 @@
 /* ~~~~~~~~~~ General ~~~~~~~~~~ */
+.btn.btn-primary {
+    background-color: #ef8b17;
+    border-color: #ef8b17;
+}
 
 /* ~~~~~~~~~~ Navbar ~~~~~~~~~~ */
+nav {
+    background-image: url("../../assets/images/landing-img.jpg");
+}
+
 nav ul {
     display: inline;
+    color: white;
 }
 
 nav ul li {
@@ -12,6 +21,7 @@ nav ul li {
 
 nav button {
     float: right;
+    padding: 20px;
 }
 
 /* ~~~~~~~~~~ Home Page ~~~~~~~~~~ */
