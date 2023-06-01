@@ -1,4 +1,11 @@
 /* ~~~~~~~~~~ General ~~~~~~~~~~ */
+/* Font Family */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .btn.btn-primary {
     background-color: #ef8b17;
     border-color: #ef8b17;
