@@ -46,6 +46,9 @@ nav button {
 
 nav #order-online-btn {
     padding: 20px;
+    margin-right: 150px;
+    background-image: -webkit-linear-gradient(bottom, rgba(0,0,0,.1) 0%, rgba(255,255,255,.1) 100%);
+    font-size: 18px
 }
 
 #nav-landing-img #nav-welcome {
