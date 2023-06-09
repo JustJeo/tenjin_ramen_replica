@@ -1,19 +1,3 @@
-<!-- Landing Img -->
-<section id="home-landing-img">
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-12">
-                <h2 id="home-welcome">Welcome</h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <h2 class="text-uppercase">Ramen Lovers</h2>
-            </div>
-        </div>
-    </div>
-</section>
-
 <!-- Opening Text -->
 <section>
     <div class="container">
