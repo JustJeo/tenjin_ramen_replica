@@ -10,16 +10,16 @@
 			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav align-items-center text-uppercase">
                     <li class="nav-item">
-						<a class="nav-link" href="/home.php">Home</a>
+						<a class="nav-link" href="index.php">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="/about_us.php">About Us</a>
+						<a class="nav-link" href="about_us.php">About Us</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#">E-Giftcard Balance</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="/contact_us.php">Contact Us</a>
+						<a class="nav-link" href="contact_us.php">Contact Us</a>
 					</li>
                 </ul>
             </div>
