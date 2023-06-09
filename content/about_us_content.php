@@ -24,7 +24,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h3>Serving best Ramen since 2018</h3>
+                <h3 class="cursive_text">Serving best Ramen since 2018</h3>
             </div>
         </div>
         <div class="row">

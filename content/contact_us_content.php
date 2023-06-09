@@ -24,7 +24,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h3>Visit us today.</h3>
+                <h3 class="cursive_text">Visit us today.</h3>
             </div>
         </div>
         <div class="row">

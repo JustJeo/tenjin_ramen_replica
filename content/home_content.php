@@ -1,5 +1,5 @@
 <!-- Opening Text -->
-<section>
+<section id="opening-text-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -8,7 +8,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h3>The perfect place to enjoy the life and food.</h3>
+                <h3 class="cursive_text">The perfect place to enjoy the life and food.</h3>
             </div>
         </div>
         <div class="row">
