@@ -23,9 +23,11 @@ p {
 
 .hours_and_questions_section {
     background-image: url("../../assets/images/contact-img.jpg");
-    background-size: cover;
+    background-attachment: fixed;
     background-position: center;
-    height: 600px;
+    color: white;
+    height: 500px;
+    padding: 100px 20px;
 }
 
 /* ~~~~~~~~~~ Navbar ~~~~~~~~~~ */
