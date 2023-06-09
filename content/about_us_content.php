@@ -23,7 +23,7 @@
 </section>
 
 <!-- Hours & Questions -->
-<section>
+<section class="hours_and_questions_section">
     <div class="container">
         <div class="row">
             <!-- Hours of Operation -->

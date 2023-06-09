@@ -1,4 +1,4 @@
-/* ~~~~~~~~~~ General ~~~~~~~~~~ */
+/* ~~~~~~~~~~ General / Multiple Pages ~~~~~~~~~~ */
 /* Font Family */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
@@ -19,6 +19,13 @@ p {
 .btn.btn-primary {
     background-color: #ef8b17;
     border-color: #ef8b17;
+}
+
+.hours_and_questions_section {
+    background-image: url("../../assets/images/contact-img.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
 }
 
 /* ~~~~~~~~~~ Navbar ~~~~~~~~~~ */
