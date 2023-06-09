@@ -37,7 +37,7 @@
 </section>
 
 <!-- Call To Action -->
-<section>
+<section id="our-specialities-section">
     <div class="container text-center">
         <div class="row">
             <div class="col-12">
