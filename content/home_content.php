@@ -58,9 +58,64 @@
 </section>
 
 <!-- Review Carousel -->
-<section>
+<section id="review-section">
     <div class="container">
-        
+        <div class="row">
+            <div class="col-12">
+                <h3 class="text-center text-uppercase">They all love our food</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h4>Toni Marie M.</h4>
+                                </div>
+                                <div class="card-body">
+                                    <p>Delicious food, friendly and attentive hosts and staff. Super yummy food. Great food to warm you up on a chilly day!</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                        <div class="card">
+                                <div class="card-header">
+                                    <h4>Susie L.</h4>
+                                </div>
+                                <div class="card-body">
+                                    <p>Delicious comfort food, great service, friendly staff, and super happy Lynn Fu is back in the Pocket just around the corner from us! We will be regulars. Love the Donburi and chicken Karaage!</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                        <div class="card">
+                                <div class="card-header">
+                                    <h4>Matthew S.</h4>
+                                </div>
+                                <div class="card-body">
+                                    <p>I highly recommend. Very good food. Even better service. Very nice people</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
