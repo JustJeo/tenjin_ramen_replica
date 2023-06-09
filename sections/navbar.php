@@ -38,7 +38,7 @@
             </div>
             <div class="row">
                 <div class="col-12">
-                    <h2 class="text-uppercase">Ramen Lovers</h2>
+                    <h3 class="text-uppercase text-light">Ramen Lovers</h3>
                 </div>
             </div>
         </div>

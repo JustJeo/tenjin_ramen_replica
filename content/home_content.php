@@ -20,7 +20,7 @@
 </section>
 
 <!-- Home Food Imgs -->
-<section>
+<section id="home-food-section">
     <div class="container">
         <div class="row">
             <div class="col-4">
