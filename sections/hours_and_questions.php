@@ -59,6 +59,11 @@
                                     <textarea type="text" name="message" placerholder="Message"></textarea>
                                 </div>
                             </div>
+                            <div class="row text-center">
+                                <div class="col-12">
+                                    <button class="btn btn-primary">Send</button>
+                                </div>
+                            </div>
                         </form>
                     </div>
                 </div>
