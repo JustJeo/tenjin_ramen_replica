@@ -16,22 +16,13 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
-.text-primary {
+.primary-text {
     color: #F5AC4C;
 }
 
 .btn.btn-primary {
     background-color: #ef8b17;
     border-color: #ef8b17;
-}
-
-.hours_and_questions_section {
-    background-image: url("../../assets/images/contact-img.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    color: white;
-    height: 500px;
-    padding: 100px 20px;
 }
 
 /* ~~~~~~~~~~ Navbar ~~~~~~~~~~ */
@@ -88,8 +79,21 @@ nav #order-online-btn {
 }
 
 /* ~~~~~~~~~~ Hours & Questions Cards ~~~~~~~~~~ */
+.hours_and_questions_section {
+    background-image: url("../../assets/images/contact-img.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+    height: 750px;
+    padding: 100px 20px;
+}
+
 .hours_and_questions_section .col-sm-6 {
     padding: 0;
+}
+
+.hours_and_questions_section .card {
+    height: 500px;
 }
 
 .hours_and_questions_section #hours-cta-card {

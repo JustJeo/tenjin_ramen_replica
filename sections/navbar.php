@@ -33,7 +33,7 @@
         <div class="container text-center">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="text-primary cursive_text" id="nav-welcome">Welcome</h2>
+                    <h2 class="primary-text cursive_text" id="nav-welcome">Welcome</h2>
                 </div>
             </div>
             <div class="row">
