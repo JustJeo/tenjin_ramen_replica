@@ -93,7 +93,7 @@ nav #order-online-btn {
 }
 
 .hours_and_questions_section .card {
-    height: 350px;
+    height: 500px;
 }
 
 .hours_and_questions_section #hours-cta-card {
@@ -103,6 +103,10 @@ nav #order-online-btn {
 .hours_and_questions_section #questions-cta-card {
     background-color: white;
     color: black;
+}
+
+.hours_and_questions_section #questions-cta-card .contact-form {
+    margin-bottom: 10px;
 }
 
 /* ~~~~~~~~~~ Home Page ~~~~~~~~~~ */

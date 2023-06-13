@@ -48,24 +48,24 @@
                                 <small>Discaliamer: Filling out this form will send an email to website replica creator, Jamieden Cabrigas, and not to the actual business of Tenjin Ramen House.</small>
                             </div>
                         </div>
-                        <form>
-                            <div class="row">
-                                <div class="col-12">
-                                    <input type="text" name="full_name" placerholder="Full Name" />
+                        <form id="contact-form">
+                            <div class="form-row">
+                                <div class="form-group col-12">
+                                    <input class="form-control" type="text" name="full_name" placeholder="Name" />
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-12">
-                                    <input type="email" name="email" placerholder="Email" />
+                            <div class="form-row">
+                                <div class="form-group col-12">
+                                    <input class="form-control" type="email" name="email" placeholder="Email" />
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-12">
-                                    <textarea type="text" name="message" placerholder="Message"></textarea>
+                            <div class="form-row">
+                                <div class="form-group col-12">
+                                    <textarea class="form-control" type="text" name="message" placeholder="Message"></textarea>
                                 </div>
                             </div>
-                            <div class="row text-center">
-                                <div class="col-12">
+                            <div class="form-row text-center">
+                                <div class="form-group col-12">
                                     <button class="btn btn-primary">Send</button>
                                 </div>
                             </div>
