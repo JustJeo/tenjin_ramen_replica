@@ -40,7 +40,7 @@
                         </div>
                         <div class="row">
                             <div class="col-12">
-                                <small>Discaliamer: Filling out this form will send an email to Jamieden Cabrigas and not to Tenjin Ramen House.</small>
+                                <small>Discaliamer: Filling out this form will send an email to website replica creator, Jamieden Cabrigas, and not to the actual business of Tenjin Ramen House.</small>
                             </div>
                         </div>
                         <form>

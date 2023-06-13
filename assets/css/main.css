@@ -85,8 +85,17 @@ nav #order-online-btn {
 }
 
 /* ~~~~~~~~~~ Hours & Questions Cards ~~~~~~~~~~ */
-.hours_and_questions_section .card {
+.hours_and_questions_section .col-sm-6 {
+    padding: 0;
+}
+
+.hours_and_questions_section #hours-cta-card {
     background-color: #212121;
+}
+
+.hours_and_questions_section #questions-cta-card {
+    background-color: white;
+    color: black;
 }
 
 /* ~~~~~~~~~~ Home Page ~~~~~~~~~~ */
