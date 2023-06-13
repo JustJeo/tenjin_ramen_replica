@@ -7,7 +7,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-12">
-                                <h4>Hours of</h4>
+                                <h4 class="text-primary">Hours of</h4>
                             </div>
                         </div>
                         <div class="row">
@@ -35,7 +35,7 @@
                         </div>
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="text-uppercase">Let Me Know</h4>
+                                <h4 class="text-primary text-uppercase">Let Me Know</h4>
                             </div>
                         </div>
                         <div class="row">

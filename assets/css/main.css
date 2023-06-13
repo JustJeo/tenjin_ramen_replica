@@ -16,6 +16,10 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+.text-primary {
+    color: #F5AC4C;
+}
+
 .btn.btn-primary {
     background-color: #ef8b17;
     border-color: #ef8b17;
@@ -73,7 +77,6 @@ nav #order-online-btn {
 }
 
 #nav-landing-img #nav-welcome {
-    color: #F5AC4C;
     font-size: 82px;
     font-weight: 600;
     text-shadow: 0px 0px 10px rgba(0,0,0,0.3);
