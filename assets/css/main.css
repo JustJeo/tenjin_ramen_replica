@@ -84,6 +84,11 @@ nav #order-online-btn {
     font-size: 47px;
 }
 
+/* ~~~~~~~~~~ Hours & Questions Cards ~~~~~~~~~~ */
+.hours_and_questions_section .card {
+    background-color: #212121;
+}
+
 /* ~~~~~~~~~~ Home Page ~~~~~~~~~~ */
 #opening-text-section {
     padding: 100px 20px 50px 20px;
