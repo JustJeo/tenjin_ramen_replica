@@ -4,7 +4,7 @@
             <!-- Hours of Operation -->
             <div class="col-sm-6">
                 <div class="card" id="hours-cta-card">
-                    <div class="card-body">
+                    <div class="card-body text-center">
                         <div class="row">
                             <div class="col-12">
                                 <h4 class="primary-text">Hours of</h4>
@@ -17,7 +17,12 @@
                         </div>
                         <div class="row">
                             <div class="col-12">
-                                <p class="text-uppercase">WEDNESDAY: 4:00 PM - 8:00 PM THURSDAY, FRIDAY , SATURDAY, SUNDAY 11:00 AM - 3:00 PM | 4:00 PM - 8:30 PM MONDAY & TUESDAY: CLOSED</p>
+                                <p class="text-uppercase">
+                                    Wednesday: 4:00 PM - 8:00 PM<br> 
+                                    Thursday, Friday, Saturday, Sunday<br> 
+                                    11:00 AM - 3:00 PM | 4:00 PM - 8:30 PM<br> 
+                                    Monday & Tuesday: Closed
+                                </p>
                             </div>
                         </div>
                     </div>
