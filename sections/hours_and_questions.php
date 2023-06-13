@@ -7,7 +7,7 @@
                     <div class="card-body text-center">
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="primary-text">Hours of</h4>
+                                <h4 class="primary-text cursive_text">Hours of</h4>
                             </div>
                         </div>
                         <div class="row">
@@ -32,10 +32,10 @@
             <!-- Questions Form -->
             <div class="col-sm-6">
                 <div class="card" id="questions-cta-card">
-                    <div class="card-body">
+                    <div class="card-body text-center">
                         <div class="row">
                             <div class="col-12">
-                                <h4>Questions</h4>
+                                <h4 class="cursive_text">Questions</h4>
                             </div>
                         </div>
                         <div class="row">
@@ -43,11 +43,8 @@
                                 <h4 class="primary-text text-uppercase">Let Me Know</h4>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-12">
-                                <small>Discaliamer: Filling out this form will send an email to website replica creator, Jamieden Cabrigas, and not to the actual business of Tenjin Ramen House.</small>
-                            </div>
-                        </div>
+
+                        <!-- Form Start -->
                         <form id="contact-form">
                             <div class="form-row">
                                 <div class="form-group col-12">
@@ -64,12 +61,18 @@
                                     <textarea class="form-control" type="text" name="message" placeholder="Message"></textarea>
                                 </div>
                             </div>
+                            <div class="row text-start">
+                                <div class="col-12">
+                                    <small id="disclaimer">Discaliamer: Filling out this form will send an email to the website replica creator, Jamieden Cabrigas, and not to the actual business of Tenjin Ramen House.</small>
+                                </div>
+                            </div>
                             <div class="form-row text-center">
                                 <div class="form-group col-12">
                                     <button class="btn btn-primary">Send</button>
                                 </div>
                             </div>
                         </form>
+                        
                     </div>
                 </div>
             </div>

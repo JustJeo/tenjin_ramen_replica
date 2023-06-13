@@ -96,8 +96,16 @@ nav #order-online-btn {
     height: 500px;
 }
 
+.hours_and_questions_section .card h4 {
+    font-size: 40px;
+}
+
 .hours_and_questions_section #hours-cta-card {
-    background-color: #212121;
+    background-color: #464646;
+}
+
+.hours_and_questions_section #hours-cta-card .card-body {
+    padding: 50px 20px;
 }
 
 .hours_and_questions_section #questions-cta-card {
@@ -105,9 +113,19 @@ nav #order-online-btn {
     color: black;
 }
 
-.hours_and_questions_section #questions-cta-card .contact-form {
+.hours_and_questions_section #questions-cta-card .card-body {
+    padding: 50px;
+}
+
+.hours_and_questions_section #questions-cta-card .form-control {
     margin-bottom: 10px;
 }
+
+.hours_and_questions_section #questions-cta-card #disclaimer {
+    font-size: .65rem;
+}
+
+
 
 /* ~~~~~~~~~~ Home Page ~~~~~~~~~~ */
 #opening-text-section {
