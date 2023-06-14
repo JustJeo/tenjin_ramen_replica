@@ -10,6 +10,7 @@
 
 .container {
     max-width: 1200px!important;
+    padding: 0;
 }
 
 .cursive_text {
@@ -135,6 +136,26 @@ nav #order-online-btn {
 /* ~~~~~~~~~~ Home Page ~~~~~~~~~~ */
 #opening-text-section {
     padding: 100px 20px 50px 20px;
+}
+
+#opening-text-section #restaurant-name {
+    font-size: 40px;
+    padding: 10px;
+    padding-left: 20px;
+    border-left: 10px solid #F5AC4C;
+    margin-bottom: 20px;
+    color: #4c4c4c;
+}
+
+#opening-text-section .cursive_text {
+    font-size: 37px;
+    color: #7A7A7A;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#opening-text-section #restaurant-desc {
+    margin-top: 20px;
 }
 
 #home-food-section {
