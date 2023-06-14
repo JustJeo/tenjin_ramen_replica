@@ -8,6 +8,10 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+section .container {
+    max-width: 1200px!important;
+}
+
 .cursive_text {
     font-family: 'Playball', cursive;
 }
@@ -50,7 +54,7 @@ nav .container {
     padding-left: 3px;
 }
 
-nav ul li a {
+nav .navbar-nav li a {
     color: white;
     margin-right: 20px;
     font-size: 12px;
