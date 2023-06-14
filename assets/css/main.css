@@ -140,7 +140,7 @@ nav #order-online-btn {
 
 #opening-text-section #restaurant-name {
     font-size: 40px;
-    padding: 10px;
+    padding: 6px 10px;
     padding-left: 20px;
     border-left: 10px solid #F5AC4C;
     margin-bottom: 20px;
@@ -152,10 +152,12 @@ nav #order-online-btn {
     color: #7A7A7A;
     margin-top: 10px;
     margin-bottom: 20px;
+    line-height: 1.8;
 }
 
 #opening-text-section #restaurant-desc {
     margin-top: 20px;
+    line-height: 1.8;
 }
 
 #home-food-section {
