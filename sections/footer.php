@@ -6,7 +6,7 @@
                     <!-- Copyright -->
                     <div class="copyright-content">
                         <div class="container">
-                            <div class="copyright-text text-center ">Copyright &copy; <?php echo date("Y");?> Tenjing Ramen House Replica. All rights reserved.</div>
+                            <div class="copyright-text text-center ">Copyright &copy; <?php echo date("Y");?> Tenjin Ramen House Replica. All rights reserved. This website was created purely for the showcasing of website replication.</div>
                         </div>
                     </div>
                 </div>
